@@ -8,7 +8,8 @@ let ul = document.querySelector('body ul');
 ul.innerHTML = `
 <li>Item 1</li>
 <li>Item 2</li>
-<li>Item 3</li>`;
+<li>Item 3</li>
+<li>teste</li>`;
 
 let ol = document.querySelector('#lista-ordenada');
 ol.innerHTML =` 
